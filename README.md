@@ -1,20 +1,8 @@
-# React State 3: Demo Start
+# React State 3: Demo End
 
-This is the start state of the demo app.
+This is the end state of the demo app.
 
-## Notes
-
-TO DO:
-
-- You only have to touch the [`src/App.js`](./src/App.js) file.
-
-## Development
-
-### CodeSandbox
-
-Select the "Browser" tab to view this project.
-
-### Local development
+## Local development
 
 To run project commands locally, you need to install the dependencies using `npm i` first.
 
